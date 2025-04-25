@@ -1,11 +1,13 @@
 Library/
 .vs/
+.vsconfig
 Temp/
 Build/
 obj/
 Logs/
 Tests.csproj
 SerializableCollections.sln
+Serializable-Collections-For-Unity.sln
 SerializableCollections.csproj
 Runtime.csproj
 GUIAssembly.csproj
